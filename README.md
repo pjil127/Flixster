@@ -8,6 +8,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 ## Flixster Part 1
 
 Submitted by: Jillian Pantig
+
 Time Spent: 4-5 Hours
 
 ### User Stories
