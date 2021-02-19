@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         RelativeLayout relativeLayout;
 
         relativeLayout = findViewById(R.id.relativeLayout);
-        relativeLayout.setBackgroundColor(Color.BLACK);
+        relativeLayout.setBackgroundColor(Color.WHITE);
 
         //Action Bar
         getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         MovieAdapter movieAdapter = new MovieAdapter(this, movies);
 
         //set adapter on rv
-        rvMovies.setAdapter(movieAdapter);;
+        rvMovies.setAdapter(movieAdapter);
 
         //set layout manager on rv
         rvMovies.setLayoutManager(new LinearLayoutManager((this)));
