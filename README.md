@@ -27,7 +27,7 @@ Time Spent: 2 Hours
 
 <img src="flixster_walkthroughv2.gif" width=250><br>
 <img src="flixsterport_walkthroughv2full.gif" width=250><br>
-<img src="flixsterland_walkthroughv2full.gif" width=250><br>
+<img src="flixsterland_walkthroughv2full.gif" width=500><br>
 
 ### Notes
 
